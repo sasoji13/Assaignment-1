@@ -40,27 +40,16 @@ img{
   text-align: center;  
 }
 .banner{
-    display: flex;
+    text-align: center;
 }
 .button{
     color: #FFFFFF;
     font-size: 20px;
     font-weight: bold;
-    margin: 21px 24px;
+    margin:21px 24px;
     background-color: #0D1321;
+    
 }
-.section-title, .section-description{
-    text-align: center;
-}
-.banner-title, .banner-description{
-    text-align: left;
-}
-.btn{
-    display: block;
-    margin-left: 20px 12px;
-}
-
-
 
 
 
